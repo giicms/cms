@@ -1,0 +1,17 @@
+{    
+    "name": "giicms/cms",
+    "description": "Yii2 CMS",
+    "homepage": "https://github.com/giicms/cms",
+    "keywords": ["yii2","cms"],
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "giicms\\cms\\": ""
+        }
+    }
+}
